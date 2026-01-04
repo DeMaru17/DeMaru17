@@ -21,19 +21,9 @@ Starting **January 2026**, I will be diving deep into Fullstack Development (Pyt
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeMaru17&show_icons=true&theme=radical&hide_border=true" alt="DeMaru17's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeMaru17&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</div>
-
----
-
 ### ⚡ Fun Facts
 - 🏸 **Badminton Enthusiast:** Currently enjoying my Victor Auraspeed 33H on the court.
 - ✍️ **Storyteller:** Writing a novel based on personal life experiences.
-- 📈 **Investor:** Interested in US Stocks & Mutual Funds.
 
 ### 📫 Connect with Me
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dennisbhayu/)
